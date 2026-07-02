@@ -34,8 +34,6 @@ We believe that excellent hydroclimate science should be:
 **ICARUS HydroClimate Lab**  
 ICARUS Climate Research Centre  
 Department of Geography  
-Maynooth University
-Kildare
-Ireland
+Maynooth University, Kildare, Ireland
 
 </p>
