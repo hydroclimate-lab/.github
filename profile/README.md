@@ -17,27 +17,6 @@ We undertake research in hydroclimate science and develop reproducible computati
 
 Our mission is to advance hydroclimate science through high-quality research, collaborative software development, and the training of the next generation of hydroclimate scientists.
 
-## Research Themes
-
-- 🌍 Hydroclimatology
-- 💧 Catchment hydrology
-- 🌊 Floods and droughts
-- 📈 Hydrological forecasting
-- 🛰️ Earth observation & GIS
-- 🐍 Environmental data science
-- 🔬 Reproducible research
-
-## Teaching
-
-The HydroClimate Lab supports:
-
-- 🎓 MSc research
-- 🎓 PhD training
-- 🐍 Python programming
-- 🗺️ GIS and environmental data science
-- 💻 Reproducible computational research
-
-
 ## Guiding Principles
 
 We believe that excellent hydroclimate science should be:
@@ -47,7 +26,6 @@ We believe that excellent hydroclimate science should be:
 - 🤝 Collaborative
 - 📝 Well documented
 - 🌐 Open where possible
-
 
 <p align="center">
 
