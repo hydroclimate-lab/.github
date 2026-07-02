@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hydroclimate-lab/.github/main/profile/ICARUS_HydroClimate_Lab_Logo_GitHub.png" alt="ICARUS HydroClimate Lab" width="350">
+  <img src="https://raw.githubusercontent.com/hydroclimate-lab/.github/main/profile/ICARUS_HydroClimate_Lab_Logo_GitHub.png"
+       alt="ICARUS HydroClimate Lab"
+       width="200">
 </p>
 
 <p align="center">
-Hydroclimate research, teaching and open-source software from the
-<b>ICARUS Climate Research Centre</b>, Department of Geography,
-Maynooth University.
+<b>Hydroclimate research, teaching and open-source software from the HydroClimate Lab at the ICARUS Climate Research Centre, Department of Geography,
+Maynooth University</b>
 </p>
 
 ## Welcome
